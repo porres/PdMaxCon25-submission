@@ -4,8 +4,9 @@ In the last years I've been heavily active in the local scene of São Paulo, esp
 
 ## Solo Performances as Patch Shop Boy
 
-**"Patch Shop Boy"** – I have used this name as a project/show name of my live performances. This is the submitted proposal for the PdMaxConference 2025.  
-On this github page I have the latest live recording of a gig I did in may 2015.
+**"Patch Shop Boy"** – I have used this name as a project/show name of my live performances. This is the submitted proposal for the PdMaxConference 2025. 
+ 
+On this github page I have the latest live recording of a gig I did in may 2015 (see flyer below). You can download the .flac file for listening, but the same track is also uploaded to [https://soundcloud.com/porres/patch-shop-boy-live-performance-may-31st-2025](https://soundcloud.com/porres/patch-shop-boy-live-performance-may-31st-2025)
 
 ![My Image](outrem.jpg)
 
